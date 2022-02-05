@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:id="@+id/country_validation_layout"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@color/yellow"
+        android:orientation="vertical"
+        android:paddingHorizontal="14dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="61dp"
+            android:layout_marginBottom="7dp"
+            android:drawableLeft="@drawable/ic_flag_czech_bigger"
+            android:drawablePadding="15dp"
+            android:lineSpacingExtra="4sp"
+            android:paddingTop="6dp"
+            android:text="@string/validation_text"
+            android:textColor="@color/black"
+            android:textSize="14sp" />
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

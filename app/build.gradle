@@ -1,0 +1,49 @@
+plugins {
+    id 'com.android.application'
+    id 'placeholder-resolver'
+}
+
+android {
+    signingConfigs {
+        release {
+        }
+    }
+
+    compileSdk 31
+    compileSdkVersion 31
+    buildToolsVersion '32.0.0 rc1'
+
+    defaultConfig {
+        applicationId "com.gmail.matejpesl1.tecka"
+
+        minSdk 25
+        minSdkVersion 25
+        compileSdk 31
+        compileSdkVersion 31
+        targetSdk 31
+        targetSdkVersion 31
+
+        versionCode 137
+        versionName '1.7.0'
+        signingConfig signingConfigs.release
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.release
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+
+dependencies {
+    implementation 'androidx.appcompat:appcompat:1.4.0'
+    implementation 'com.google.android.material:material:1.4.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.2'
+    implementation 'androidx.preference:preference:1.1.1'
+}

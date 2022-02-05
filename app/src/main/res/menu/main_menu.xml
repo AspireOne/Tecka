@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_message_list"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_message"
+        android:title="Seznam zpráv"/>
+    <item
+        android:id="@+id/action_add_certificate"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_add"
+        android:title="Přidat certifikáty"/>
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_settings"
+        android:title="Možnosti"/>
+
+</menu>

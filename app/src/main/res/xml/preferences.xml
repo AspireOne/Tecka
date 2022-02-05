@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <PreferenceCategory app:title="Údaje" app:iconSpaceReserved="false">
+        <EditTextPreference
+            app:title="Jméno"
+            app:useSimpleSummaryProvider="true"
+            app:iconSpaceReserved="false"
+            app:persistent="true"
+            app:defaultValue="Jméno"
+            app:key="name" />
+
+        <EditTextPreference
+            app:title="Příjmení"
+            app:useSimpleSummaryProvider="true"
+            app:iconSpaceReserved="false"
+            app:persistent="true"
+            app:defaultValue="Příjmení"
+            app:key="surname" />
+        <EditTextPreference
+            app:title="Datum narození"
+            app:useSimpleSummaryProvider="true"
+            app:iconSpaceReserved="false"
+            app:defaultValue="1. 1. 1111"
+            app:persistent="true"
+            app:key="birthdate" />
+    </PreferenceCategory>
+</PreferenceScreen>

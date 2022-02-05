@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PersonActivity">
+
+    <LinearLayout
+        android:background="@color/ugly_blue"
+        android:id="@+id/linearLayout3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingHorizontal="15dp"
+        android:paddingBottom="15dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:textColor="@color/white"
+            android:id="@+id/textView8"
+            android:textSize="20sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textAllCaps="true"
+            android:text="@string/person_full_name" />
+
+        <TextView
+            android:textSize="16sp"
+            android:textColor="#FFFFFF"
+            android:id="@+id/textView9"
+            android:fontFamily="sans-serif-light"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/person_date" />
+    </LinearLayout>
+
+    <androidx.fragment.app.FragmentContainerView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/country_validation_layout"
+        android:name="com.gmail.matejpesl1.tecka.ValidationCountryNoticeFragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        tools:layout="@layout/validation_country_notice_fragment" />
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/show_invalid_card"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        app:contentPadding="15dp"
+        app:cardElevation="0dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout3">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:textSize="16sp"
+            android:text="Zobrazit i neplatné certifikáty"
+            android:textColor="@color/black" />
+
+        <Switch
+            android:layout_width="50dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="right"
+            app:srcCompat="@drawable/ic_info"
+            app:tint="@color/ugly_blue" />
+    </androidx.cardview.widget.CardView>
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/show_invalid_card">
+
+        <TableRow
+            android:padding="14dp"
+            android:backgroundTint="@color/lighter_yellow"
+            android:background="@drawable/custom_border_alternative"
+            android:id="@+id/person_card"
+            android:layout_width="match_parent">
+
+            <ImageView
+                android:id="@+id/img"
+                android:layout_width="51dp"
+                android:adjustViewBounds="true"
+                android:src="@drawable/ic_ok_cust" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:paddingLeft="10dp"
+                android:text="@string/certificate_info"
+                android:textColor="@color/black"
+                android:textSize="14sp" />
+
+            <TextView
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="right"
+                android:paddingLeft="10dp"
+                android:text="vyprší 25. 7. 2025"
+                android:textColor="@color/green"
+                android:textSize="16sp" />
+        </TableRow>
+    </TableLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

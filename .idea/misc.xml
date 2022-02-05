@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable-v24/abc_btn_check_material.xml" value="0.3828125" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable-v24/ic_add.xml" value="0.1" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable-v24/ic_arrow_down.xml" value="0.1" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable-v24/ic_arrow_up.xml" value="0.1" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable-v24/ic_back.xml" value="0.1" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable-v24/ic_backspace.xml" value="0.1" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable-v24/ic_badge.xml" value="0.1" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable-v24/ic_clock_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable-v24/ic_close.xml" value="0.1" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable-v24/ic_delete.xml" value="0.1" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable-v24/ic_document.xml" value="0.1" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable-v24/ic_download.xml" value="0.1" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable-v24/ic_eidentita.xml" value="0.1" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable-v24/ic_english_off.xml" value="0.1" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable-v24/ic_english_on.xml" value="0.1" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable-v24/ic_error.xml" value="0.1" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable-v24/ic_face_scan.xml" value="0.1" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable-v24/ic_fingerprint.xml" value="0.1" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable-v24/ic_flag_czech.xml" value="0.1" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable-v24/ic_flag_eu_cz.xml" value="0.1" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable-v24/ic_flag_eu_eu.xml" value="0.1" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable-v24/ic_flash_off.xml" value="0.1" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable-v24/ic_flash_on.xml" value="0.1" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable-v24/ic_forward.xml" value="0.1" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable-v24/ic_gov.xml" value="0.1" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable-v24/ic_help.xml" value="0.1" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable-v24/ic_image.xml" value="0.1" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable-v24/ic_info.xml" value="0.1" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable-v24/ic_keyboard_black_24dp.xml" value="0.1" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable-v24/ic_menu.xml" value="0.1" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable-v24/ic_message_unread.xml" value="0.1" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable-v24/ic_mtrl_checked_circle.xml" value="0.1" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable-v24/ic_mtrl_chip_checked_black.xml" value="0.1" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable-v24/ic_mtrl_chip_checked_circle.xml" value="0.1" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable-v24/ic_mtrl_chip_close_circle.xml" value="0.1" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable-v24/ic_ok.xml" value="0.1" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable-v24/ic_pdf.xml" value="0.1" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable-v24/ic_phone.xml" value="0.1" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable-v24/ic_qr_code.xml" value="0.1" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable-v24/ic_refresh.xml" value="0.1" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable-v24/ic_settings.xml" value="0.1" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable-v24/ic_share.xml" value="0.1" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable-v24/ic_shield_info.xml" value="0.1" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable/custom_border_alternative.xml" value="0.3828125" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable/customborder.xml" value="0.3828125" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable/ic_arrow_up.xml" value="0.341" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable/ic_backspace.xml" value="0.341" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable/ic_badge.xml" value="0.341" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable/ic_eidentita.xml" value="0.341" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable/ic_flag_czech.xml" value="0.341" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable/ic_flag_czech_bigger.xml" value="0.3828125" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable/ic_message.xml" value="0.1" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable/ic_planner.xml" value="0.341" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable/ic_symbol_czech.xml" value="0.341" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/drawable/shadow_background.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/layout/activity_add_certificate.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/layout/activity_certificate_details.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/layout/activity_country_validation.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/layout/activity_main.xml" value="0.2726449275362319" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/layout/activity_messages.xml" value="0.25" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/layout/activity_person.xml" value="0.33" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/layout/activity_qr.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/layout/activity_settings.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/layout/activity_state_validation.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/layout/preferences.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/layout/preferences_popup.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/layout/validation_country_notice_fragment.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/menu/action_bar_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/menu/add_certificate_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/menu/certificate_details_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/menu/country_validation_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/menu/main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/menu/main_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/menu/person_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/menu/qr_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/xml/certificate_details.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/matej/AndroidStudioProjects/Tecka/app/src/main/res/xml/user_preferences.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
