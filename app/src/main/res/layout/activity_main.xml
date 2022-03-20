@@ -40,11 +40,13 @@
         </TableRow>
         <TextView
             android:paddingLeft="10dp"
+            android:paddingRight="10dp"
             android:text="@string/validation_info"
             android:textColor="@color/material_grey_600"
             android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
             android:layout_marginTop="14dp"
-            android:textSize="13sp" />
+            android:textSize="12sp" />
     </TableLayout>
 
     <androidx.fragment.app.FragmentContainerView

@@ -7,6 +7,7 @@
     <string name="template_person_full_name">${person_surname} ${person_name}</string>
     <string name="template_person_info"><font size="16">${person_surname} ${person_name}</font>\n<font size="14">${person_date}</font></string>
 
+    <string name="prefs_popup_header">Údaje</string>
     <string name="app_name">Tečka</string>
     <string name="validation_text">Vyhodnoceno podle pravidel pro:\n<font size="16"><b>Česko - na území ČR</b></font></string>
     <string name="validation_info">Vyhodnocení platnosti je orientační informace pro držitele certifikátu a není rozhodující pro kontrolory.
