@@ -27,6 +27,7 @@
                 android:src="@drawable/ic_ok_cust" />
 
             <TextView
+                android:id="@+id/user_data"
                 android:lineSpacingExtra="3dp"
                 android:paddingLeft="10dp"
                 android:layout_width="match_parent"
